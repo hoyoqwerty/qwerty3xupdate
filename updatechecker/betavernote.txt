@@ -1,2 +1,2 @@
 ベータテスト内容2
-developing_alpha_6156
+developing_alpha_6186
