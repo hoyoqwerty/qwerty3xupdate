@@ -1,3 +1,2 @@
-テスト内容2
-developing_alpha_6185
-
+qwerty3x updateの機能拡充
+・起動時にqwerty3x updateを動作させられるようになりました。
