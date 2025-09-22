@@ -1,2 +1,3 @@
-ベータテスト内容2
-developing_alpha_6186
+qwerty3x updateの機能拡充
+・起動時にqwerty3x updateを動作させられるようになりました。
+(開発版用メッセージ)
