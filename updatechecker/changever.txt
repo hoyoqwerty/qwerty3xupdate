@@ -2,4 +2,5 @@ developing_alpha_6867<develop>beta
 developing_alpha_6601<develop>beta
 developing_alpha_6186<develop>beta
 developing_alpha_6185<develop>beta
-developing_alpha_7053<develop>
+developing_alpha_7053<develop>beta
+1.00_beta1<develop>
